@@ -11,3 +11,13 @@ Existen dos tipos de aspectos de privacidad las cuales son: control de acceso y 
 
 <br>
 Algunas de las desventajas que tiene la inteligencia artificial es que no tiene razón para decidir o tomar mejores decisiones, de acuerdo a investigaciones los algoritmos están a más en beneficio al género masculino esto de acuerdo a un estudio que se hizo en la contracción de nuevo personal, en esto influye a que como tal no se fijaron por el curriculum que tiene cada persona, esta nueva tecnología solo iba eligiendo a personas hombres y a las mujeres no eran seleccionadas y no solo es por el género si no también aplica por el color de piel, muchos investigadores han optado que no se aplique esta tecnología en los tribunales debido a las desventajas que han ido encontrado de acuerdo a la implementación de esta tecnología. 
+
+<br>
+<h2>Referencias:</h2>
+<br>
+<ol>
+  <li>Ricardo Baeza-Yates y Karma Peiró, (2022) ¿Es posible acabar con los sesgos de los algoritmos?, publicado el: 15 de julio de 2019, recuperado en: ¿Es posible acabar con los sesgos de los algoritmos? | Ricardo Baeza-Yates & Karma Peiró (uchile.cl)</li>
+  <li>Yilda Morillo, (2022), Qué es bias en inteligencia artificial | Los riesgos de los sesgos, publicado el: sin dato, recuperado en: Qué es bias en inteligencia artificial | Los riesgos de los sesgos (futuroelectrico.com)</li>  
+  <li>Brien Posey, (2022), Privacidad de datos, seguridad de datos y protección de datos, publicado el: julio de 2021, recuperado en: ¿Qué es Privacidad de datos, seguridad de datos y protección de datos? - Definición en WhatIs.com (computerweekly.com)</li>
+</ol>
+
